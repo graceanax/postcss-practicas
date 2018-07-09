@@ -1,0 +1,26 @@
+{
+  "name": "postcss-practicas",
+  "version": "1.0.0",
+  "description": "}",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graceanax/postcss-practicas.git"
+  },
+  "author": "graceanax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graceanax/postcss-practicas/issues"
+  },
+  "homepage": "https://github.com/graceanax/postcss-practicas#readme",
+  "devDependencies": {
+    "postcss-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.6.5",
+    "postcss-cssnext": "^3.1.0"
+  }
+}
